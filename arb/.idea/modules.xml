@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExcelIntegration/ExcelIntegration.iml" filepath="$PROJECT_DIR$/ExcelIntegration/ExcelIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arb.iml" filepath="$PROJECT_DIR$/arb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-bitcoinaverage/xchange-bitcoinaverage.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-bitcoinaverage/xchange-bitcoinaverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-bitcoincharts/xchange-bitcoincharts.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-bitcoincharts/xchange-bitcoincharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-bitcurex/xchange-bitcurex.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-bitcurex/xchange-bitcurex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-bitstamp/xchange-bitstamp.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-bitstamp/xchange-bitstamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-blockchain/xchange-blockchain.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-blockchain/xchange-blockchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-btcchina/xchange-btcchina.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-btcchina/xchange-btcchina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-btce/xchange-btce.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-btce/xchange-btce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-campbx/xchange-campbx.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-campbx/xchange-campbx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-cavirtex/xchange-cavirtex.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-cavirtex/xchange-cavirtex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-core/xchange-core.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-core/xchange-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-examples/xchange-examples.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-examples/xchange-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-kraken/xchange-kraken.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-kraken/xchange-kraken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-mtgox/xchange-mtgox.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-mtgox/xchange-mtgox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xchange-okcoin/xchange-okcoin.iml" filepath="$PROJECT_DIR$/xchange-okcoin/xchange-okcoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-openexchangerates/xchange-openexchangerates.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-openexchangerates/xchange-openexchangerates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XChange2/xchange-parent.iml" filepath="$PROJECT_DIR$/../XChange2/xchange-parent.iml" />
+    </modules>
+  </component>
+</project>
+

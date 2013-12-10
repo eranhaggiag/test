@@ -1,0 +1,4 @@
+21:05:39.913 Shlomi-PC [main] DEBUG com.xeiam.xchange.ExchangeFactory
+				- Creating exchange from specification 
+21:05:40.204 Shlomi-PC [main] DEBUG com.xeiam.xchange.ExchangeFactory
+				- Creating default exchange from class name 

@@ -1,0 +1,15 @@
+POST /trade/sellBtcSubmit.do?random=64 HTTP/1.1
+Host: www.okcoin.com
+Connection: keep-alive
+Content-Length: 56
+Accept: */*
+Origin: http://www.okcoin.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://www.okcoin.com/sell.do?symbol=1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: JSESSIONID=CF873A6928E729B0A6676B7D659D6538; coin_session_id_o=1936f381-8825-41ad-a73c-c7150bd0559cokcoin; coin_session_nikename=eran; Hm_lvt_45e8f68df9bb8a9fc29ce78c80080330=1385999085,1386058568,1386088336,1386337273; Hm_lpvt_45e8f68df9bb8a9fc29ce78c80080330=1386337449
+
+tradeAmount=1&tradeCnyPrice=300&tradePwd=asdfgh&symbol=1

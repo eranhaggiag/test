@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xchange-bitcoinaverage" />
+        <module name="xchange-bitcoincharts" />
+        <module name="xchange-bitcurex" />
+        <module name="xchange-bitstamp" />
+        <module name="xchange-blockchain" />
+        <module name="xchange-btcchina" />
+        <module name="xchange-btce" />
+        <module name="xchange-campbx" />
+        <module name="xchange-cavirtex" />
+        <module name="xchange-core" />
+        <module name="xchange-examples" />
+        <module name="xchange-kraken" />
+        <module name="xchange-mtgox" />
+        <module name="xchange-okcoin" />
+        <module name="xchange-openexchangerates" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xchange-bitcoinaverage" target="1.6" />
+      <module name="xchange-bitcoincharts" target="1.6" />
+      <module name="xchange-bitcurex" target="1.6" />
+      <module name="xchange-bitstamp" target="1.6" />
+      <module name="xchange-blockchain" target="1.6" />
+      <module name="xchange-btcchina" target="1.6" />
+      <module name="xchange-btce" target="1.6" />
+      <module name="xchange-campbx" target="1.6" />
+      <module name="xchange-cavirtex" target="1.6" />
+      <module name="xchange-core" target="1.6" />
+      <module name="xchange-examples" target="1.6" />
+      <module name="xchange-kraken" target="1.6" />
+      <module name="xchange-mtgox" target="1.6" />
+      <module name="xchange-okcoin" target="1.6" />
+      <module name="xchange-openexchangerates" target="1.6" />
+      <module name="xchange-parent" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
+
